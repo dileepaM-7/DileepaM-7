@@ -10,7 +10,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=dileepaM-7&icon=6&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/koshi98k?mibextid=2JQ9oc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/dileepa-malshan-998908292)
 
