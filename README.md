@@ -1,7 +1,5 @@
 <div align="center">
   <div>
-    <img src="https://tenor.com/en-GB/view/monitors-typing-screen-laptops-new-computer-gif-2554775961674464073" width="150"/>
-  </div>
   <h1> Hi, I'm Dileepa! 👋 </h1>
 
 🧑🏻‍💻  An undergraduate Software Engineer <br/>
