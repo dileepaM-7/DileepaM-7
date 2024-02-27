@@ -6,7 +6,7 @@
 💻  Informatics Institute of Technology 🇱🇰 <br/>
 🌱  Currently in the Second year of my higher education <br/>
 🏏  Interested in Cricket <br/>
-🌐  [(PortFolio)](https://dileepa-portfolio.web.app/)
+🌐  [PortFolio](https://dileepa-portfolio.web.app/)
 
 [![](https://visitcount.itsvg.in/api?id=dileepaM-7&icon=6&color=0)](https://visitcount.itsvg.in)
 
