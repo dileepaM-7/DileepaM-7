@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi, I'm Dileepa! 👋 </h1>
+  <h1> Hi, I'm Dileepa!👋</h1>
 
 🧑🏻‍💻  An undergraduate Software Engineer <br/>
 🎓  Studies Software Engineering at the University of Westminster 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <br/>
